@@ -2,3 +2,8 @@ venv
 *.csv
 *.txt
 *.json
+hasy-data
+cities
+*.png
+*.jpg
+world_m
